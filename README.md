@@ -14,5 +14,6 @@ Some projects about Natural Language Processing
 According to the chinese sentences, try to complete word segmentation.      
 >
 
-- Result : https://github.com/tailer954/Natural-Language-Processing/blob/master/01_Word%20Segmentation/Output%2002.txt    
+- Result :        
+https://github.com/tailer954/Natural-Language-Processing/blob/master/01_Word%20Segmentation/Output%2002.txt    
 >
