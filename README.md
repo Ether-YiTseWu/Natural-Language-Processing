@@ -9,7 +9,7 @@ Some projects about Natural Language Processing
 - N-grams
 >
 
-## Project01 : Regression
+## Project01 : Word Segmentation
 - Goal :       
 According to the chinese sentences, try to complete word segmentation.      
 >
